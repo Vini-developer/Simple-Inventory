@@ -1,0 +1,30 @@
+[{
+    "id": 0,
+    "name":"Sword",
+    "maxQuantity": 1,
+    "iconSrc": "sword"
+},
+{
+    "id": 1,
+    "name":"Shield",
+    "maxQuantity": 1,
+    "iconSrc": "shield"
+},
+{
+    "id": 2,
+    "name":"Health Potion",
+    "maxQuantity": 10,
+    "iconSrc": "hpotion"
+},
+{
+    "id": 3,
+    "name":"Mana Potion",
+    "maxQuantity": 5,
+    "iconSrc": "mpotion"
+},
+{
+    "id": 4,
+    "name":"Axe",
+    "maxQuantity": 1,
+    "iconSrc": "axe"
+}]
